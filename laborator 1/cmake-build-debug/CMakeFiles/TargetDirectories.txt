@@ -1,0 +1,3 @@
+D:/programare/laboratoare sda/laborator 1 mai ok/cmake-build-debug/CMakeFiles/laborator_1_mai_ok.dir
+D:/programare/laboratoare sda/laborator 1 mai ok/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/programare/laboratoare sda/laborator 1 mai ok/cmake-build-debug/CMakeFiles/rebuild_cache.dir

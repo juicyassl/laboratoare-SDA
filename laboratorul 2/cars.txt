@@ -1,0 +1,5 @@
+2020 15000.50 Toyota Corolla GasolineC
+2019 35000.75 BMW X5 Diesel
+2021 28000.00 Audi A4 Hybrid
+2018 12000.30 Ford Fiesta Gasoline
+2022 22000.99 Honda Civic Electric
